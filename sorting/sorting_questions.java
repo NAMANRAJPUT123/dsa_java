@@ -1,4 +1,4 @@
-// INversion Count
+// Inversion Count
 import java.util.*;
 
 public class sorting_questions {
