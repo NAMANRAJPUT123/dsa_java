@@ -7,7 +7,7 @@ public class job_sequencing {
         int[] id = new int[n];
         int[] deadline = new int[n];
         int[] profit = new int[n];
-        System.out.println("Enter JobID Deadline Profit:");
+        System.out.println("Enter JobID ,Deadline ,Profit:");
         for (int i = 0; i < n; i++) {
             id[i] = sc.nextInt();
             deadline[i] = sc.nextInt();
